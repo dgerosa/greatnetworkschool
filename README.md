@@ -1,4 +1,4 @@
 # greatnetworkschool
-This repository contains material related to the 2019 GrEAT (Gravitational-wave Excellence through Alliance Training) school held in Birmingham UK
+This repository contains material related to the GrEAT (Gravitational-wave Excellence through Alliance Training) school held in Birmingham (UK) in 2019.
 
-https://sites.google.com/view/greatnetworkschool
+Conference website: https://sites.google.com/view/greatnetworkschool
